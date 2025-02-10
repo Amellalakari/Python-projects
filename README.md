@@ -17,4 +17,7 @@ This project predicts heart disease using Logistic Regression in Python.
 ## 📌 How to Run:
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/heart-disease-prediction.git
+   git clone https://github.com/Aishwaryamellalakari/heart-disease-prediction.git
+Install required libraries:
+pip install pandas numpy scikit-learn seaborn matplotlib
+Open the Jupyter Notebook and run the code.
